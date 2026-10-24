@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🧠✨ MindSpark
+<img src="assets/logo.png" alt="MindSpark logo: a pink brain mascot with glasses holding a star wand, above the words MindSpark, Learn · Play · Grow" width="260">
 
-**A brain-training app designed for children aged 6–12**
+### A brain-training app designed for children aged 6–12
 
 Short, playful games that build memory, attention, logic and speed,
 with clear instructions, helpful hints and rewards that keep kids coming back.
 
-[**▶ Try the live prototype**](https://YOUR-USERNAME.github.io/mindspark/)
+[**▶ Try the live prototype**](https://mahabindakhil.github.io/MindSpark-Project/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -64,12 +64,12 @@ The interface follows **Norman's design principles**: Visibility, Feedback, Cons
 No installation or build step is needed. The whole app is a single self-contained file: all styles, scripts and images are built into `index.html`.
 
 **Option 1: online**
-Open the [live prototype](https://YOUR-USERNAME.github.io/mindspark/) in any modern browser.
+Open the [live prototype](https://mahabindakhil.github.io/MindSpark-Project/) in any modern browser.
 
 **Option 2: locally**
 ```bash
-git clone https://github.com/YOUR-USERNAME/mindspark.git
-cd mindspark
+git clone https://github.com/mahabindakhil/MindSpark-Project.git
+cd MindSpark-Project
 # then open index.html in your browser
 ```
 
@@ -80,8 +80,10 @@ Progress (sparks, unlocked games, badges) is saved in your browser, so each devi
 ## 📁 Project Structure
 
 ```
-mindspark/
+MindSpark-Project/
 ├── index.html   # The complete app: HTML, CSS, JavaScript and images
+├── assets/
+│   └── logo.png # Logo used in this README
 └── README.md
 ```
 
