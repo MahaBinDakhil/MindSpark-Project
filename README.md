@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="MindSpark logo: a pink brain mascot with glasses holding a star wand, above the words MindSpark, Learn · Play · Grow" width="260">
+<img src="assets/Mascot.png" alt="MindSpark logo: a pink brain mascot with glasses holding a star wand, above the words MindSpark, Learn · Play · Grow" width="260">
 
 ### A brain-training app designed for children aged 6–12
 
@@ -83,7 +83,9 @@ Progress (sparks, unlocked games, badges) is saved in your browser, so each devi
 MindSpark-Project/
 ├── index.html   # The complete app: HTML, CSS, JavaScript and images
 ├── assets/
-│   └── logo.png # Logo used in this README
+│   ├── Mascot.png         # Mascot with logo (used in this README)
+│   ├── Mascot pose.png    # Mascot reading pose
+│   └── MindSpark LOGO.png # Wordmark
 └── README.md
 ```
 
@@ -106,6 +108,8 @@ King Saud University · 1st Semester 1448 (2026)
 ---
 
 <div align="center">
+
+<img src="assets/Mascot%20pose.png" alt="MindSpark mascot reading a book" width="70">
 
 Made with 💜 for curious young minds
 
