@@ -89,7 +89,7 @@ MindSpark-Project/
 └── README.md
 ```
 
-## 👥 Team (Group #8)
+## 👥 Team
 
 | Name |
 |---|
